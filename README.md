@@ -61,8 +61,11 @@ The final trained model achieves high accuracy, making it practical for real-wor
 
 ### Prerequisites
 Make sure Python and the following libraries are installed:
-```bash
 pip install pandas numpy scikit-learn matplotlib
+
+Then follow these steps
 1. clone this repository
 2.Add the dataset
 3. Run the Notebook.
+
+#Author PraveenKumar G
